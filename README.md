@@ -1,1 +1,1 @@
-# silencelike.github.io
+# repository for web projects
